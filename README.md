@@ -23,7 +23,8 @@ Setting `LANGCHAIN_TRACING_V2` starts logging traces.
 
 ```
 export LANGCHAIN_TRACING_V2="true"
-export LANGCHAIN_API_KEY="..."
+export LANGCHAIN_API_KEY="insert_your_key_here"
+export OPENAI_API_KEY="insert_your_key_here"
 ```
 
 ## Build a simple language translator with ChatOpenAI   
@@ -33,12 +34,11 @@ Copy and paste the following into a file.
 ```
 import getpass
 import os
-
-os.environ["OPENAI_API_KEY"] = getpass.getpass()
-
+from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
+from langchain_core.output_parsers import StrOutputParser
 
-model = ChatOpenAI(model="gpt-4")
+model= ChatOpenAI(model="gpt-4")
 
 messages = [
     SystemMessage(content="Translate the following from English into Italian"),
