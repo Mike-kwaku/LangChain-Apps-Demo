@@ -1,5 +1,5 @@
 # LangChain-Apps-Demo   
-![image](https://www.google.com/imgres?q=langchain&imgurl=https%3A%2F%2Fpython.langchain.com%2Fv0.2%2Fimg%2Fbrand%2Fwordmark.png&imgrefurl=https%3A%2F%2Fpython.langchain.com%2Fv0.2%2Fdocs%2Fintroduction%2F&docid=1DZgWlJxiFBvTM&tbnid=G6BjQMbxf0XAVM&vet=12ahUKEwj9w6r2xcyHAxWLUkEAHSmdJ8gQM3oECG0QAA..i&w=1586&h=251&hcb=2&ved=2ahUKEwj9w6r2xcyHAxWLUkEAHSmdJ8gQM3oECG0QAA)
+![image](https%3A%2F%2Fpython.langchain.com%2Fv0.2%2Fimg%2Fbrand%2Fwordmark.png&imgrefurl=https%3A%2F%2Fpython.langchain.com%2Fv0.2%2Fdocs%2Fintroduction%2F&docid=1DZgWlJxiFBvTM&tbnid=G6BjQMbxf0XAVM&vet=12ahUKEwj9w6r2xcyHAxWLUkEAHSmdJ8gQM3oECG0QAA..i&w=1586&h=251&hcb=2&ved=2ahUKEwj9w6r2xcyHAxWLUkEAHSmdJ8gQM3oECG0QAA)
 
 This repository contains the following AI applications developed using Langchain components:
 
