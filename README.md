@@ -14,6 +14,7 @@ The following commands install `langchain` framework and `langchain-openai`. `la
 ```
 pip install langchain
 pip install -qU langchain-openai
+pip install "langserve[all]"
 ```
 
 ## Set Environmental Variables 
