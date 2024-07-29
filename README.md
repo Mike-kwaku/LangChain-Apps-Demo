@@ -4,6 +4,8 @@
 This repository contains the following AI applications developed using Langchain components:
 
 1. [Language Translator]()    :
+2. [Health Assitant]()   :
+3. 
 
 ## Quickstart to Langchain 
 
