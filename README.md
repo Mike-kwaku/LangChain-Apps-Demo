@@ -5,7 +5,7 @@ This repository contains the following AI applications developed using Langchain
 
 1. [Language Translator](https://github.com/Mike-kwaku/LangChain-Apps-Demo/tree/main/LanguageTranslator): This program translates "a message/text" from one language to another.
    
-2. [Health Assitant]() :
+2. [Health Assitant]() : This AI powered health assistant provides relevant response to health-related questions. 
    
 4. 
 
