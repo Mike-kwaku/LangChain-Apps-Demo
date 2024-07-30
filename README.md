@@ -7,7 +7,7 @@ This repository contains the following AI applications developed using Langchain
    
 2. [Health Assitant]() : This AI powered health assistant provides relevant response to health-related questions. 
    
-4. 
+3. [Devops Assistant](): This AI powered assistant retrieves related response to Devops questions. 
 
 ## Quickstart to Langchain 
 
